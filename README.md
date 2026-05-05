@@ -1,2 +1,2 @@
 # mi-pagina-web
-Pagina web para empresa
+Páginas web para empresas y negocios.
